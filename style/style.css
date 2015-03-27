@@ -1,0 +1,28 @@
+body{
+	margin: 0 auto;
+}
+#container{
+	width:360px;
+	margin: 0 auto;
+}
+.past{
+	width:10px;
+	height:10px;
+	background:red;
+	margin:1px;
+	float:left;
+}
+
+.fature{
+	width:10px;
+	height:10px;
+	background:green;
+	margin:1px;
+	float:left;
+}
+a{
+	color:blue;
+}
+#someBullShit{
+	float: left;
+}
